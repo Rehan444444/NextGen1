@@ -1,0 +1,32 @@
+[
+    {
+      "image": "./assets/custom-conveyor.jpg",
+      "name": "Custom Conveyor Design",
+      "description": "We design and manufacture conveyors tailored to your specific requirements.",
+      "price": 1000
+    },
+    {
+      "image": "./assets/installation-maintenance.jpg",
+      "name": "Installation & Maintenance",
+      "description": "Expert setup and maintenance for peak efficiency.",
+      "price": 500
+    },
+    {
+      "image": "./assets/automated-handling.jpg",
+      "name": "Automated Material Handling Solutions",
+      "description": "Streamline your material handling with advanced automation.",
+      "price": 2000
+    },  {
+        "image": "./assets/installation-maintenance.jpg",
+        "name": "Installation & Maintenance",
+        "description": "Expert setup and maintenance for peak efficiency.",
+        "price": 500
+      },
+      {
+        "image": "./assets/automated-handling.jpg",
+        "name": "Automated Material Handling Solutions",
+        "description": "Streamline your material handling with advanced automation.",
+        "price": 2000
+      }
+  ]
+  
